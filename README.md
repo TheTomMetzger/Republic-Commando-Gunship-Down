@@ -31,6 +31,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 Copyright © 2015-2016, Tom Metzger
+Made with Mocha 2D
 
 <hr>
 To download a complete version of this game, please visit aerifex.com or github.com/thetommetzger/Republic-Commando-Gunship-Down/releases
