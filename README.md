@@ -3,25 +3,22 @@ Having Successfully completed their mission of Assassinating the Geonosian Chief
 
 While en Route, Their gunship is shot down deep behind enemy lines. While the rest of the squad takes up a defensive position around the wreckage, RC-1138 (Boss) Continues the journey to the base on foot, in hopes of bringing aide to his squad mates. in front of him lie miles of rough terrain and enemy troops…
 
-<hr>
+<br>
 
-<h2>Instructions</h2>
-<h3>Controls:</h3>
-<ul>
-<li>Use the LEFT ARROW key to move left</li>
-<li>Use the RIGHT ARROW key to move right</li>
-<li>Use the SPACE BAR key to shoot</li>
-</ul>
-<h3>What To Do:</h3>
-<ul>
-<li>Run for as long as you can</li>
-<li>Dodge the rocks and Battle Droids</li>
-<li>Shoot the Battle Droids for extra points</li>
-</ul>
+## Instructions
+### Controls
+* Use the `LEFT ARROW` key to move left
+* Use the `RIGHT ARROW` key to move right
+* Use the `SPACE BAR` key to shoot
 
-<hr>
+### What To Do
+* Run for as long as you can
+* Dodge the rocks and Battle Droids
+* Shoot the Battle Droids for extra points
 
-<h2>Legal</h2>
+<br>
+
+## Legal
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.  IN NO EVENT SHALL THE
@@ -30,9 +27,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-Copyright © 2015-2016, Tom Metzger
+Copyright © 2015, Tom Metzger
 <br>
-Made with Mocha 2D
+Made with Mocha 2D Beta
 
 <hr>
-To download a complete version of this game, please visit aerifex.com or github.com/thetommetzger/Republic-Commando-Gunship-Down/releases
+To download a more complete version of this game, please visit gamejam.southernerd.us or github.com/thetommetzger/Republic-Commando-Gunship-Down/releases
